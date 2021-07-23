@@ -37,6 +37,6 @@ def excute_fun(filename,sheetname):
 
 
 #调用excete_fun对login接口自动化测试
-excute_fun('C:\Users\\曹贺杰.LAPTOP-Q6E1SRM0\\.jenkins\workspace\scb22α\\test_data\\testcase_api_wuye.xlsx', 'login')
+excute_fun('C:\Users\曹贺杰.LAPTOP-Q6E1SRM0\.jenkins\workspace\scb22α\\test_data\\testcase_api_wuye.xlsx', 'login')
 #代码分层结构，不在同级了，写绝对路径
 #'\'不识别，需要做转译
